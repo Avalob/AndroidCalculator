@@ -70,5 +70,6 @@ Los resultados de las operaciones seleccionadas aparecerán debajo del botón, i
 
 ## 👀 Capturas de Pantalla
 
-![Pantalla principal con los campos de entrada y checkboxes]()
+![Pantalla principal con los campos de entrada y checkboxes](CalculadoraCheckboxPantallazo.png)
+![Pantalla principal con los campos de entrada y checkboxes](CalculadoraCheckboxPantallazo2.png)
 
